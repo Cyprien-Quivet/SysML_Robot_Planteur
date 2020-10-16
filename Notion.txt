@@ -1,0 +1,3 @@
+Fred  : insérer lien du notion figé pour Albert
+
++ Dans le dossier GIT, mettre PDF du Notion
